@@ -1,5 +1,7 @@
 pyCraft
 =======
+**Fork of Ammaraskar's pyCraft that supports Microsoft Accounts (Only Microsoft accounts, for Mojang accounts use the original)**
+
 .. image:: https://travis-ci.org/ammaraskar/pyCraft.svg?branch=master
     :target: https://travis-ci.org/ammaraskar/pyCraft
 .. image:: https://readthedocs.org/projects/pycraft/badge/?version=latest
